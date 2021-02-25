@@ -10,3 +10,7 @@ qt使用yolov5，仅仅依赖opencv4
 ①打开qt_projects
 ②将上面的onnx放大编译后的文件夹，再放入几个图片
 ③修改cpp里面图片名字，运行。
+
+
+## 结果
+![result]./qt_project/1.png
