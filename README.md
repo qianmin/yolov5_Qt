@@ -13,4 +13,4 @@ qt使用yolov5，仅仅依赖opencv4
 
 
 ## 结果
-![result]./qt_project/1.png
+![result](./qt_project/1.png)
