@@ -1,5 +1,5 @@
 # yolov5_Qt
-qt使用yolov5，仅仅依赖opencv4
+qt使用yolov5（V4.0），仅仅依赖opencv4
 
 
 # onnx获取
